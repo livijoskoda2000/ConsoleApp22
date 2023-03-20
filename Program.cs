@@ -8,6 +8,7 @@ namespace ConsoleApp22
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo"); 
+            Console.WriteLine("Novo2"); 
         }
     }
 }
